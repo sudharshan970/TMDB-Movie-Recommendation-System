@@ -8,7 +8,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-10b981?style=for-the-badge)
 
-### 🚀 [Live Demo](https://YOUR-USERNAME-tmdb-movie-universe.streamlit.app) &nbsp;|&nbsp; 📊 [Dataset](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies) &nbsp;|&nbsp; ☁️ [Dataset Google Drive](https://drive.google.com/file/d/1xm86kNhMV77blxYhERMO_tr0UQnMOr5V/view?usp=sharing)
+### 🚀 [Live Demo](https://tmdb-movie-recommendation-system-vtg9inbcsnjrmkg3twgrmw.streamlit.app/) &nbsp;|&nbsp; 📊 [Dataset](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies) &nbsp;|&nbsp; ☁️ [Dataset Google Drive](https://drive.google.com/file/d/1xm86kNhMV77blxYhERMO_tr0UQnMOr5V/view?usp=sharing)
 
 **A stunning dark-neon cinema dashboard with 1M+ movies, live TMDB API posters,
 ML-powered recommendations, and rich analytics — built with Streamlit.**
