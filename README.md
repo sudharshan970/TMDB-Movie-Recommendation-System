@@ -13,7 +13,7 @@
 **A stunning dark-neon cinema dashboard with 1M+ movies, live TMDB API posters,
 ML-powered recommendations, and rich analytics — built with Streamlit.**
 
-![Dashboard Preview](https://image.tmdb.org/t/p/original/wwemzKWzjKYJFfCeiB57q3r4Bcm.jpg)
+
 
 </div>
 
